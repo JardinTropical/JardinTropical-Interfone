@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Residencial Jardim Tropical - Contato</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+    <link href="./styles.css" type="text/css" rel="stylesheet">
+</head>
+<body>
+
+    <h1>Residencial Jardim Tropical</h1>
+    <h2>Contate-nos diretamente via WhatsApp</h2>
+
+    <div class="container">
+        <!-- Andar 1 -->
+        <div class="apartment-card">
+            <div class="apartment-info">
+                <span>101</span>
+            </div>
+            <a href="https://wa.me/5511999999999?text=Oi%20sou%20seu%20entregador%20e%20estou%20aqui%20no%20port%C3%A3o" class="whatsapp-btn" target="_blank">WhatsApp 1</a>
+            <a href="https://wa.me/5511888888888?text=Oi%20sou%20seu%20entregador%20e%20estou%20aqui%20no%20port%C3%A3o" class="whatsapp-btn secondary" target="_blank">WhatsApp 2</a>
+        </div>
+
+        <div class="apartment-card">
+            <div class="apartment-info">
+                <span>102</span>
+            </div>
+            <a href="https://wa.me/5511777777777?text=Oi%20sou%20seu%20entregador%20e%20estou%20aqui%20no%20port%C3%A3o" class="whatsapp-btn" target="_blank">WhatsApp 1</a>
+            <a href="https://wa.me/5511666666666?text=Oi%20sou%20seu%20entregador%20e%20estou%20aqui%20no%20port%C3%A3o" class="whatsapp-btn secondary" target="_blank">WhatsApp 2</a>
+        </div>
+
+        <!-- Andar 2 -->
+        <div class="apartment-card">
+            <div class="apartment-info">
+                <span>201</span>
+            </div>
+            <a href="https://wa.me/5521987321988?text=Oi%20sou%20seu%20entregador%20e%20estou%20aqui%20no%20port%C3%A3o" class="whatsapp-btn" target="_blank">WhatsApp Felipe</a>
+            <a href="https://wa.me/5521997517451?text=Oi%20sou%20seu%20entregador%20e%20estou%20aqui%20no%20port%C3%A3o" class="whatsapp-btn secondary" target="_blank">WhatsApp Rafaela</a>
+        </div>
+
+        <div class="apartment-card">
+            <div class="apartment-info">
+                <span>202</span>
+            </div>
+            <a href="https://wa.me/5511333333333?text=Oi%20sou%20seu%20entregador%20e%20estou%20aqui%20no%20port%C3%A3o" class="whatsapp-btn" target="_blank">WhatsApp 1</a>
+            <a href="https://wa.me/5511222222222?text=Oi%20sou%20seu%20entregador%20e%20estou%20aqui%20no%20port%C3%A3o" class="whatsapp-btn secondary" target="_blank">WhatsApp 2</a>
+        </div>
+
+        <!-- Andar 3 -->
+        <div class="apartment-card">
+            <div class="apartment-info">
+                <span>301</span>
+            </div>
+            <a href="https://wa.me/5521983713468?text=Oi%20sou%20seu%20entregador%20e%20estou%20aqui%20no%20port%C3%A3o" class="whatsapp-btn" target="_blank">WhatsApp Evaldo</a>
+            <a href="https://wa.me/5521983713468?text=Oi%20sou%20seu%20entregador%20e%20estou%20aqui%20no%20port%C3%A3o" class="whatsapp-btn secondary" target="_blank">WhatsApp Silinha</a>
+        </div>
+
+        <div class="apartment-card">
+            <div class="apartment-info">
+                <span>302</span>
+            </div>
+            <a href="https://wa.me/55984155405?text=Oi%20sou%20seu%20entregador%20e%20estou%20aqui%20no%20port%C3%A3o" class="whatsapp-btn" target="_blank">WhatsApp Juliana</a>
+            <a href="https://wa.me/5511222222222?text=Oi%20sou%20seu%20entregador%20e%20estou%20aqui%20no%20port%C3%A3o" class="whatsapp-btn secondary" target="_blank">WhatsApp 2</a>
+        </div>
+
+        <!-- Andar 4 -->
+        <div class="apartment-card">
+            <div class="apartment-info">
+                <span>401</span>
+            </div>
+            <a href="https://wa.me/5511666666666?text=Oi%20sou%20seu%20entregador%20e%20estou%20aqui%20no%20port%C3%A3o" class="whatsapp-btn" target="_blank">WhatsApp 1</a>
+            <a href="https://wa.me/5511555555555?text=Oi%20sou%20seu%20entregador%20e%20estou%20aqui%20no%20port%C3%A3o" class="whatsapp-btn secondary" target="_blank">WhatsApp 2</a>
+        </div>
+
+        <div class="apartment-card">
+            <div class="apartment-info">
+                <span>402</span>
+            </div>
+            <a href="https://wa.me/5511444444444?text=Oi%20sou%20seu%20entregador%20e%20estou%20aqui%20no%20port%C3%A3o" class="whatsapp-btn" target="_blank">WhatsApp 1</a>
+            <a href="https://wa.me/5511333333333?text=Oi%20sou%20seu%20entregador%20e%20estou%20aqui%20no%20port%C3%A3o" class="whatsapp-btn secondary" target="_blank">WhatsApp 2</a>
+        </div>
+
+        <!-- Andar 5 -->
+        <div class="apartment-card">
+            <div class="apartment-info">
+                <span>501</span>
+            </div>
+            <a href="https://wa.me/5521980329449?text=Oi%20sou%20seu%20entregador%20e%20estou%20aqui%20no%20port%C3%A3o" class="whatsapp-btn" target="_blank">WhatsApp Carlos</a>
+        </div>
+
+        <div class="apartment-card">
+            <div class="apartment-info">
+                <span>502</span>
+            </div>
+            <a href="https://wa.me/5521990386738?text=Oi%20sou%20seu%20entregador%20e%20estou%20aqui%20no%20port%C3%A3o" class="whatsapp-btn" target="_blank">WhatsApp Vinicius</a>
+        </div>
+
+        <!-- Andar 6 -->
+        <div class="apartment-card">
+            <div class="apartment-info">
+                <span>601</span>
+            </div>
+            <a href="https://wa.me/5511777777777?text=Oi%20sou%20seu%20entregador%20e%20estou%20aqui%20no%20port%C3%A3o" class="whatsapp-btn" target="_blank">WhatsApp 1</a>
+            <a href="https://wa.me/5511666666666?text=Oi%20sou%20seu%20entregador%20e%20estou%20aqui%20no%20port%C3%A3o" class="whatsapp-btn secondary" target="_blank">WhatsApp 2</a>
+        </div>
+
+        <div class="apartment-card">
+            <div class="apartment-info">
+                <span>602</span>
+            </div>
+            <a href="https://wa.me/5511555555555?text=Oi%20sou%20seu%20entregador%20e%20estou%20aqui%20no%20port%C3%A3o" class="whatsapp-btn" target="_blank">WhatsApp 1</a>
+            <a href="https://wa.me/5511444444444?text=Oi%20sou%20seu%20entregador%20e%20estou%20aqui%20no%20port%C3%A3o" class="whatsapp-btn secondary" target="_blank">WhatsApp 2</a>
+        </div>
+    </div>
+
+</body>
+</html>
